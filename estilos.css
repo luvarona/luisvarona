@@ -1,0 +1,23 @@
+
+.ver{
+	color:green;
+}
+.am{
+	color:yellow;
+}
+.nar{
+	color:rgb(0,130,255);
+}
+td,table{
+	border: solid 1px black;
+}
+table{
+	border-collapse:collapse;
+}
+a:hover{
+	color:blue;
+}
+body{
+	background-image:url("perro.jpg");
+	background-size:100%;
+}
